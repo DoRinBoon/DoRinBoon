@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DoRinBoon
-- 🌱 I’m currently learning Full Stack developer
+- 🌱 I’m currently learning Full Stack developer, Data Analytics, Cybersecurity
 - 📫 How to reach me dorinboon@gmail.com
 
 <!---
